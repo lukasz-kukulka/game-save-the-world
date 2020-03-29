@@ -4,6 +4,8 @@
 
 # Assembled binaries and object directories
 obj/
+SFML/
+bin/
 a.out
 *.bin
 *.a26
